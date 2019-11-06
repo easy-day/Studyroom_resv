@@ -4,7 +4,7 @@
 
 # 103호 자리 예약 서비스
 
-본 서비스는 
+#### 본 서비스는 실습실 102호 자리 지정제를 위한 자리 예약 홈페이지 입니다.
 
 
 ## [요구사항 분석](https://github.com/recognitions/Studyroom_resv/tree/master/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EB%B6%84%EC%84%9D)
