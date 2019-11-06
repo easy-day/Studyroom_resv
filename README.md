@@ -6,7 +6,7 @@
 
 #### 본 서비스는 실습실 102호 자리 지정제를 위한 자리 예약 홈페이지 입니다.
 
-## 프로젝트 관리 규칙
+## [프로젝트 관리 규칙](https://github.com/recognitions/Studyroom_resv/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC-%EA%B7%9C%EC%B9%99)
 
 - #### Issue
 > **문제가 생겼을 시**에 꼭!! 작성해주세요
